@@ -99,7 +99,7 @@ description:    The first and only row reduction club at Stuyvesant High School
 # `/my-project`, without trailing slash.
 #
 # Default:      ""
-baseurl:        /
+baseurl:
 
 # Flatten base
 #

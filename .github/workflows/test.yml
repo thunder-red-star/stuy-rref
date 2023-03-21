@@ -69,7 +69,7 @@ jobs:
         run: grunt build
 
       - name: Run Percy
-        run: npx percy snapshot _site/
+        run: npx percy snapshot docs/
         env:
           PERCY_TOKEN: ${{ secrets.PERCY_TOKEN }}
 

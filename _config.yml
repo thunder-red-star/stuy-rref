@@ -7,7 +7,7 @@
 # Jekyll basic configurations
 #
 source:         _app
-destination:    docs
+destination:    _site
 timezone:       America/Los_Angeles
 permalink:      /:title.html
 markdown:       kramdown

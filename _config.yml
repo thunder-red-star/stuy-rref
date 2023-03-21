@@ -66,7 +66,7 @@ dev:            false
 # Site name
 #
 # Default:      Almace Scaffolding
-name:           Almace Scaffolding
+name:           Stuyvesant Row Reduction Club
 
 # Site short name
 #
@@ -82,14 +82,14 @@ name:           Almace Scaffolding
 # - name_short: Sparanoid
 #
 # Default:      AMSF
-name_short:     AMSF
+name_short:     Stuy-RREF
 
 # Site description
 #
 # Will be used in the document meta and Atom feed subtitle
 #
 # Default:      Super-fast Jekyll framework
-description:    Super-fast Jekyll framework
+description:    The first and only row reduction club at Stuyvesant High School
 
 # Base URL
 #
@@ -99,7 +99,7 @@ description:    Super-fast Jekyll framework
 # `/my-project`, without trailing slash.
 #
 # Default:      ""
-baseurl:        /lab/amsf
+baseurl:        /
 
 # Flatten base
 #
@@ -109,7 +109,7 @@ baseurl:        /lab/amsf
 # enable this option if you're using GitHub Pages.
 #
 # Default:      false
-flatten_base:   false
+flatten_base:   true
 
 # CSS path used in templates
 #
@@ -129,7 +129,7 @@ feed:           /feed.xml
 # URLs for these fields
 #
 # Default:      https://sparanoid.com
-url:            https://sparanoid.com
+url:            https://stuy-rref.stuy.world
 
 # Media assets URL
 #
@@ -158,8 +158,8 @@ download:       https://d1bmx7s6749k4k.cloudfront.net
 #
 # Used by Safari mask-icon, Chrome Web App theme color
 colors:
-  theme:        "#ff00b4"
-  background:   "#fff"
+  theme:        "#63c6ff"
+  background:   "#ffffff"
 
 # Service Worker Precache
 service_worker:
@@ -176,7 +176,7 @@ google_analytics:
   url:          https://www.google-analytics.com/analytics.js
 
 # Site Twitter account handle
-twitter:        sparanoid
+twitter:        Thunder_RedStar
 
 # Twitter Cards large images
 #

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Open Graph
+title: Meeting 1
 category: note
 plugin: lightense
-tags: curtana
+tags: lessons
 ---
 
 Theme Curtana has full Open Graph and Twitter Cards support.

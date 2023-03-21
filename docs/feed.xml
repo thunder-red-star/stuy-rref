@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>Stuyvesant Row Reduction Club</title><subtitle>The first and only row reduction club at Stuyvesant High School</subtitle><updated>2023-03-21T16:56:20-07:00</updated><id>https://stuy-rref.stuy.world/</id><generator uri="https://sparanoid.com/lab/amsf/" version="2.0.24">Almace Scaffolding</generator><link rel="alternate" type="text/html" hreflang="en" href="https://stuy-rref.stuy.world/" /><link rel="self" type="application/atom+xml" href="https://stuy-rref.stuy.world/feed.xml" /><author><name>Tunghsiao Liu</name><uri>https://stuy-rref.stuy.world/</uri><email>t@sparanoid.com</email></author><entry><title>Meeting 1</title><id>https://stuy-rref.stuy.world/first-meeting.html</id><link rel="alternate" type="text/html" href="https://stuy-rref.stuy.world/first-meeting.html" /><published>2023-03-21T00:00:00-07:00</published><updated>2023-03-21T16:06:15-07:00</updated><author><name>Tunghsiao Liu</name><uri>https://sparanoid.com/</uri><email>t@sparanoid.com</email></author><content type="html" xml:base="https://stuy-rref.stuy.world/">
+          
+            &lt;p&gt;Theme Curtana has full Open Graph and Twitter Cards support.&lt;/p&gt;
+
+&lt;p&gt;It will look for the image in the following order:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;page.thumbnail&lt;/code&gt; if defined in your post &lt;a href=&quot;https://jekyllrb.com/docs/frontmatter/&quot;&gt;front-matter field&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;If no specified &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;page.thumbnail&lt;/code&gt; defined, it uses &lt;a href=&quot;/custom-heading-background.html&quot;&gt;Heading Background Image&lt;/a&gt; (aka. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;page.heading-bg&lt;/code&gt;) if defined in your post front-matter field.&lt;/li&gt;
+  &lt;li&gt;If no heading background image found, Curtana will try to grab the first image (wrapped inside &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;img&amp;gt;&lt;/code&gt;) in your post as your post thumbnail&lt;/li&gt;
+  &lt;li&gt;If nothing found, it falls back to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;logo.png&lt;/code&gt; located at your site root.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;You can always use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;page.thumb_force_logo&lt;/code&gt; in your post’s front-matter field to override the above lookup.&lt;/p&gt;
+
+&lt;p&gt;Here’s a preview on Twitter:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://d349cztnlupsuf.cloudfront.net/open-graph-preview.png&quot; alt=&quot;Twitter Cards (Open Graph compatible) Preview&quot; /&gt;&lt;/p&gt;
+
+          
+          
+        
+      
+        </content><summary>Theme Curtana has full Open Graph and Twitter Cards support.</summary></entry></feed>

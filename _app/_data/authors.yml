@@ -7,10 +7,10 @@
 # {{ author.web }}: used in atom feed
 # {{ author.twitter }}: used by Twitter Cards
 default:
-  name:         Tunghsiao Liu
-  email:        t@sparanoid.com
-  web:          https://sparanoid.com/
-  twitter:      tunghsiao
+  name:         Stuyvesant Row Reduction Club
+  email:        srrc@stuy.world
+  web:          https://stuy-rref.stuy.world
+  twitter:      Thunder_RedStar
 
 tester:
   name:         Tester

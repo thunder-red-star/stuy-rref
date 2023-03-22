@@ -1,24 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>Stuyvesant Row Reduction Club</title><subtitle>The first and only row reduction club at Stuyvesant High School</subtitle><updated>2023-03-21T16:56:20-07:00</updated><id>https://stuy-rref.stuy.world/</id><generator uri="https://sparanoid.com/lab/amsf/" version="2.0.24">Almace Scaffolding</generator><link rel="alternate" type="text/html" hreflang="en" href="https://stuy-rref.stuy.world/" /><link rel="self" type="application/atom+xml" href="https://stuy-rref.stuy.world/feed.xml" /><author><name>Tunghsiao Liu</name><uri>https://stuy-rref.stuy.world/</uri><email>t@sparanoid.com</email></author><entry><title>Meeting 1</title><id>https://stuy-rref.stuy.world/first-meeting.html</id><link rel="alternate" type="text/html" href="https://stuy-rref.stuy.world/first-meeting.html" /><published>2023-03-21T00:00:00-07:00</published><updated>2023-03-21T16:06:15-07:00</updated><author><name>Tunghsiao Liu</name><uri>https://sparanoid.com/</uri><email>t@sparanoid.com</email></author><content type="html" xml:base="https://stuy-rref.stuy.world/">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>Stuyvesant Row Reduction Club</title><subtitle>The first and only row reduction club at Stuyvesant High School</subtitle><updated>2023-03-21T17:11:55-07:00</updated><id>https://stuy-rref.stuy.world/</id><generator uri="https://sparanoid.com/lab/amsf/" version="2.0.24">Almace Scaffolding</generator><link rel="alternate" type="text/html" hreflang="en" href="https://stuy-rref.stuy.world/" /><link rel="self" type="application/atom+xml" href="https://stuy-rref.stuy.world/feed.xml" /><author><name>Stuyvesant Row Reduction Club</name><uri>https://stuy-rref.stuy.world/</uri><email>srrc@stuy.world</email></author><entry><title>Meeting 1</title><id>https://stuy-rref.stuy.world/first-meeting.html</id><link rel="alternate" type="text/html" href="https://stuy-rref.stuy.world/first-meeting.html" /><published>2023-03-21T00:00:00-07:00</published><updated>2023-03-21T17:11:27-07:00</updated><author><name>Stuyvesant Row Reduction Club</name><uri>https://stuy-rref.stuy.world</uri><email>srrc@stuy.world</email></author><content type="html" xml:base="https://stuy-rref.stuy.world/">
           
-            &lt;p&gt;Theme Curtana has full Open Graph and Twitter Cards support.&lt;/p&gt;
+            &lt;h1 id=&quot;meeting-1&quot;&gt;Meeting 1&lt;/h1&gt;
+&lt;p&gt;This is the first meeting of the year. We will be discussing the following topics:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Row Reduction&lt;/li&gt;
+  &lt;li&gt;Row Echelon Form&lt;/li&gt;
+  &lt;li&gt;Reduced Row Echelon Form&lt;/li&gt;
+  &lt;li&gt;Gauss-Jordan Elimination&lt;/li&gt;
+  &lt;li&gt;Inverse Matrices&lt;/li&gt;
+  &lt;li&gt;Determinants&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;It will look for the image in the following order:&lt;/p&gt;
+&lt;p&gt;We will also be row-reducing a 6x6 matrix together! Stay tuned for info.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;page.thumbnail&lt;/code&gt; if defined in your post &lt;a href=&quot;https://jekyllrb.com/docs/frontmatter/&quot;&gt;front-matter field&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;If no specified &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;page.thumbnail&lt;/code&gt; defined, it uses &lt;a href=&quot;/custom-heading-background.html&quot;&gt;Heading Background Image&lt;/a&gt; (aka. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;page.heading-bg&lt;/code&gt;) if defined in your post front-matter field.&lt;/li&gt;
-  &lt;li&gt;If no heading background image found, Curtana will try to grab the first image (wrapped inside &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;img&amp;gt;&lt;/code&gt;) in your post as your post thumbnail&lt;/li&gt;
-  &lt;li&gt;If nothing found, it falls back to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;logo.png&lt;/code&gt; located at your site root.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;You can always use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;page.thumb_force_logo&lt;/code&gt; in your post’s front-matter field to override the above lookup.&lt;/p&gt;
-
-&lt;p&gt;Here’s a preview on Twitter:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://d349cztnlupsuf.cloudfront.net/open-graph-preview.png&quot; alt=&quot;Twitter Cards (Open Graph compatible) Preview&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;This meeting will be happening on &lt;strong&gt;Saturday, April 1st, 2023&lt;/strong&gt; in &lt;strong&gt;Room 435&lt;/strong&gt; at Stuyvesant High School. The meeting will start at &lt;strong&gt;2:00 PM&lt;/strong&gt; and end at &lt;strong&gt;4:00 PM&lt;/strong&gt;. We will be providing pizza and drinks for all attendees.&lt;/p&gt;
 
           
           
         
       
-        </content><summary>Theme Curtana has full Open Graph and Twitter Cards support.</summary></entry></feed>
+        </content><summary>Meeting 1This is the first meeting of the year. We will be discussing the following topics:  Row Reduction  Row Echelon Form  Reduced Row Echelon Form  Gauss-Jordan Elimination  Inverse Matrices  Determinants</summary></entry></feed>

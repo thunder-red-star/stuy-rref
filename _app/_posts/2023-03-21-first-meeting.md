@@ -6,17 +6,15 @@ plugin: lightense
 tags: lessons
 ---
 
-Theme Curtana has full Open Graph and Twitter Cards support.
+# Meeting 1
+This is the first meeting of the year. We will be discussing the following topics:
+- Row Reduction
+- Row Echelon Form
+- Reduced Row Echelon Form
+- Gauss-Jordan Elimination
+- Inverse Matrices
+- Determinants
 
-It will look for the image in the following order:
+We will also be row-reducing a 6x6 matrix together! Stay tuned for info.
 
-1. Use `page.thumbnail` if defined in your post [front-matter field](https://jekyllrb.com/docs/frontmatter/).
-2. If no specified `page.thumbnail` defined, it uses [Heading Background Image]({{ "/custom-heading-background.html" | relative_url }}) (aka. `page.heading-bg`) if defined in your post front-matter field.
-3. If no heading background image found, Curtana will try to grab the first image (wrapped inside `<img>`) in your post as your post thumbnail
-4. If nothing found, it falls back to `logo.png` located at your site root.
-
-You can always use `page.thumb_force_logo` in your post's front-matter field to override the above lookup.
-
-Here's a preview on Twitter:
-
-![Twitter Cards (Open Graph compatible) Preview]({{ site.file }}/open-graph-preview.png)
+This meeting will be happening on **Saturday, April 1st, 2023** in **Room 435** at Stuyvesant High School. The meeting will start at **2:00 PM** and end at **4:00 PM**. We will be providing pizza and drinks for all attendees.
